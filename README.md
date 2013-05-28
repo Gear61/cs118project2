@@ -3,7 +3,7 @@ Unifying Sensor API Project
 
 Clone the Repository
 --------------------
-  git clone git@github.com:Gear61/cs118project2.git
+    $ git clone git@github.com:Gear61/cs118project2.git
 
 Git Workflow
 ------------

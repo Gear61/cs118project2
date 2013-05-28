@@ -1,7 +1,11 @@
 Unifying Sensor API Project
 ===========================
 
-Git workflow
+Clone the Repository
+--------------------
+  git clone git@github.com:Gear61/cs118project2.git
+
+Git Workflow
 ------------
 
 1) Modify the code.

@@ -1,23 +1,25 @@
-cs118project2
-=============
+Unifying Sensor API Project
+===========================
 
-Git Workflow
+Git workflow
+------------
 
 1) Modify the code.
 
 2) Tell Git to start tracking new/modified source code.
-
-$ git add .
+  
+    $ git add .
 
 3) Commit code. Add useful comments.
 
-$ git commit -m "Added ARP request processing."
+    $ git commit -m "Added ARP request processing."
 
 4) Push the code to Github.
 
-$ git push
-
+    $ git push
+    
 
 Before pushing code to Github
+-----------------------------
+    $ make clean
 
-$ make clean

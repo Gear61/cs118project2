@@ -1,5 +1,5 @@
-Unifying Sensor API Project
-===========================
+CS 118 Project 2 - Building a Router
+====================================
 
 Clone the Repository
 --------------------
